@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1510.0",
+    "base64-arraybuffer": "^1.0.2",
+    "expo-cli": "^6.3.10",
+    "react-native-aws3": "^0.0.9",
+    "react-native-fs": "^2.20.0",
+    "react-native-image-picker": "^7.0.3"
+  }
+}
